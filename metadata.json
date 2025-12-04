@@ -1,0 +1,5 @@
+{
+  "name": "IntelliVend - AI Powered Multi-Vendor E-Commerce",
+  "description": "A comprehensive full-stack style React application simulating a multi-vendor marketplace. Features AI-powered product description generation for vendors and an intelligent shopping assistant for buyers using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
