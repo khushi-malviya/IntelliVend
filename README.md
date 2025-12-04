@@ -2,7 +2,7 @@
 
 IntelliVend is a cutting-edge, comprehensive e-commerce marketplace that bridges the gap between buyers and vendors using advanced Artificial Intelligence. Built with React, TypeScript, and Tailwind CSS, it features a complete multi-role ecosystem (Buyer, Vendor, Admin) and integrates Google's Gemini 2.5 Flash model to enhance the shopping and selling experience.
 
-# Short Demo Preview: 
+## Short Demo Preview: 
 
 https://github.com/user-attachments/assets/4e22d5bd-bfa6-438f-bff9-571b50651617
 
